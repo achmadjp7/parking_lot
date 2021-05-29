@@ -1,7 +1,12 @@
-# Add script to:
-# * Install dependencies
-# * Build/Compile
-# * Run Test Suit to validate
-#
-# After this is run, bin/parking_lot
-# should Just Work.
+#!/bin/bash
+
+# Install dependencies
+echo 'Installing dependencies'
+npm install  
+
+# Run the unit test cases
+echo 'Running tests'
+npm run test
+
+# Finish setup
+echo '-----------------------------SETUP COMPLETED-----------------------------'
