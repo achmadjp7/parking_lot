@@ -8,7 +8,7 @@ Run the main program
 "node index.js"
 
 Run all tests cases
-"npm test test/run.testcases.js"
+"npm run test"
 ```
 
 Problem Statement:
