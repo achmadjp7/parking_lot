@@ -1,0 +1,23 @@
+{
+  "name": "parking_lot",
+  "version": "1.0.0",
+  "description": "Parking Lot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeckho/parking_lot.git"
+  },
+  "author": "Achmad Joko Priyono",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeckho/parking_lot/issues"
+  },
+  "homepage": "https://github.com/zeckho/parking_lot#readme",
+  "devDependencies": {
+    "cli-table3": "^0.6.0",
+    "jest": "^26.6.3"
+  }
+}
